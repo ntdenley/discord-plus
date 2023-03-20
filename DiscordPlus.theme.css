@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
+  --dplus-font-ui: 'Whitney';
   --dplus-font-body: 'Whitney';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-header: 'Whitney';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
@@ -78,7 +78,7 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 24px;
+--dplus-icon-avatar-chat: 40px;
 --dplus-icon-avatar-list: 32px;
 --dplus-icon-avatar-profile: 40px;
 
